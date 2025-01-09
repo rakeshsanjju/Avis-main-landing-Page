@@ -1,0 +1,718 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="title" content="Laser treatment for varicose veins">
+<meta name="description" content="">
+<meta name="facebook-domain-verification" content="oi591xu8hntwagwu2tfr3uxs3xs4yq" />
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.css">
+<link rel='stylesheet' href='css/animate.min.css'>
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+<title>AVIS HOSPITAL</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1CK6QYLK84"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1CK6QYLK84');
+  gtag('config', 'AW-458972515');
+</script>
+
+<!-- Taboola Pixel Code -->
+<script type='text/javascript'>
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 1431209});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1431209/tfa.js',
+  'tb_tfa_script');
+</script>
+<!-- End of Taboola Pixel Code -->
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', 'b77edfa132c7483a92b3b5da68e0d608');
+qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/b77edfa132c7483a92b3b5da68e0d608/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '626369245080765');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=626369245080765&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '692155812171274');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=692155812171274&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+<div class="page_wrap">
+  <header class="top_hdr">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6">
+          <div class="top_logo_main"> <a href="javascript:void(0);" class="logo_page" data-aos="fade-up"
+                           data-aos-duration="3500"> <img src="images/logo.png" alt="#"> </a> </div>
+        </div>
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6">
+          <div class="request_call_bk" data-aos="fade-up" data-aos-duration="3500"> <a href="#request"> Book Your Appointment Today </a> </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section class="bnr_sec" style="background: url(./images/bnr_img.jpg)0 0 no-repeat;">
+    <div class="bnr_inr">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="bnr_cnct">
+              <h2 data-aos="fade-up"
+                              data-aos-duration="3500"><span>Matchless care for </span> varicose veins. Painless procedure.</h2>
+              <h3 data-aos="fade-up" data-aos-duration="3500">Laser & Glue treatment <span>for varicose veins.</span></h3>
+              <div class="leser_treatment" id="request">
+                <ul data-aos="fade-up" data-aos-duration="3500">
+                  <li>Internationally qualified doctors</li>
+                  <li>USFDA-approved</li>
+                  <li>30-min procedure</li>
+                  <li>Same-day discharge</li>
+                  <li>Completely woundless</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="bnr_sec_mobile" style="background: url(./images/mobile_banner.jpg)0 0 no-repeat;">
+    <div class="bnr_inr">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="bnr_cnct">
+              <h2 data-aos="fade-up" data-aos-duration="3500"><span>Matchless care for </span> varicose veins. </h2>
+              <h3 data-aos="fade-up" data-aos-duration="3500">Laser treatment <span>for varicose veins.</span></h3>
+              <div class="leser_treatment" id="request">
+                <ul data-aos="fade-up" data-aos-duration="3500">
+                  <li>Internationally qualified doctors</li>
+                  <li>USFDA-approved</li>
+                  <li>30-min procedure</li>
+                  <li>Same-day discharge</li>
+                  <li>Completely woundless</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="bnr_form_section" id="requestf">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="bnr_frm_inn" data-aos="fade-up"
+                           data-aos-duration="3500">
+            <h3> Contact us Now +91 9989527715  <br/>& <span style=" color: #e3351d;">Get Ultrasound Doppler Scan worth Rs 3500 for FREE.</span> </h3>
+            <form name="ban_frm" id="ban_frm" action="" method="POST">
+              <div class="two_fld2 d-flex justify-content-between">
+    <div class="form-group">
+      <input type="text" name="nme" id="nme" class="form-control" placeholder="Name*" onKeyUp="txtValidate();">
+    </div>
+     <div class="form-group">
+      <input type="text" name="eml" id="eml" class="form-control" placeholder="Email*">
+    </div>
+
+              </div>
+              <div class="two_fld d-flex justify-content-between">
+    <div class="form-group">
+      <input type="tel" name="phn" id="phn" class="form-control" placeholder="Phone*" onKeyUp="numValidate();">
+    </div>
+
+    <div class="form-group">
+      <select name="loc" id="loc" class="form-control">
+        <option value="">Choose Any Location</option>
+        <option value="Hyderabad">Hyderabad</option>
+        <option value="Vijayawada">Vijayawada</option>
+        <option value="Visakhapatnam">Visakhapatnam</option>
+        <option value="Chennai">Chennai</option>
+        <option value="Bengaluru">Bengaluru</option>
+        <option value="Rajahmundry">Rajahmundry</option>
+        <option value="Coimbatore">Coimbatore</option>
+        <option value="Madurai">Madurai</option>
+        <option value="Mysore">Mysore</option>
+        <option value="Mangalore">Mangalore</option>
+        <option value="Tirupati">Tirupati</option>
+        <option value="Kolkata">Kolkata</option>
+        <option value="Khammam">Khammam</option>
+        <option value="Erode">Erode</option>
+      
+        <option value="Kakinada">Kakinada</option>
+        
+        <option value="Kurnool">Kurnool</option>
+        <option value="Indore">Indore</option>
+        <option value="Pune">Pune</option>
+      </select>
+    </div>
+
+              </div>
+              <div class="two_fld3 d-flex justify-content-between">
+                    <div class="form-group fg_l1">
+      <textarea class="form-control textarea_box" name="msg" id="msg" placeholder=" Your Query*"></textarea>
+    </div>
+    
+    <input type="hidden" name="utm_src" id="utm_src" value="<?php echo $_GET['utm_source']; ?>">
+    <input type="hidden" name="utm_med" id="utm_med" value="<?php echo $_GET['utm_medium']; ?>">
+    <input type="hidden" name="utm_camp" id="utm_camp" value="<?php echo $_GET['utm_campaign']; ?>">
+    <input type="hidden" name="utm_term" id="utm_term" value="<?php echo $_GET['utm_term']; ?>">
+    <input type="hidden" name="utm_refer" id="utm_refer" value="<?php echo $_SERVER['HTTP_REFERER']; ?>">
+    <input type="hidden" name="ip_add" id="ip_add" value="<?php echo $_SERVER['REMOTE_ADDR']; ?>">
+
+    <div class="form-group fg_l2">
+      <input type="button" id="ban_btn" value="SUBMIT" class="frm_sbmt sbmt_btn" onClick="checkValidation();">
+    </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="form_down" data-aos="fade-up" data-aos-duration="3500">
+    <div class="container">
+      <div class="row">
+        <div class="counter_box">
+          <div class="cbox_inn_1">
+            <h2>16000+</h2>
+            <p> Happy Patients</p>
+          </div>
+          <div class="cbox_inn_1">
+            <h2>22+</h2>
+            <p> Years of Experience </p>
+          </div>
+          <div class="cbox_inn_1">
+            <h2>95%</h2>
+            <p>Success <br/>Rate</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="counter_box2">
+          <div class="cbox_inn_1 ci_b">
+            <h2>100%</h2>
+            <p>Price Assurance</p>
+          </div>
+          <div class="cbox_inn_1 ci_b">
+            <p>Internationally Qualified Doctors</p>
+          </div>
+          <div class="cbox_inn_1 ci_b">
+            <p>Medical Insurance Approved </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list_red_box">
+            <li>Andhra Pardesh</li>
+            <li>Telangana</li>
+            <li>Tamil Nadu</li>
+            <li>Karnataka</li>
+            <li>West Bengal</li>
+            <li>Madhya Pradesh</li>
+            <li>Pune</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="ablation" style="background: url(./images/bg_2.jpg) 0 0 no-repeat;background-position: center;background-size: cover;">
+    <div class="container">
+      <div class="row" data-aos="fade-up" data-aos-duration="3500">
+        <div class="col-md-7">
+          <div class="ablation_inn">
+            <h2>Painless and minimally invasive treatment for varicose veins with <span> Endovenous Laser </span> </h2>
+            <p>Varicose veins are the enlarged and swollen veins that are prominently visible on the skin surface. These bluish-purple veins usually occur on the legs and feet but can also develop on the arms and face.</p>
+            <p>Varicose veins occur due to malfunctioning valves that restrict the flow of the deoxygenated blood back to the heart. This results in excessive blood pooling and increased pressure in the affected area.</p>
+            <p>We understand that dealing with varicose veins can be overwhelming, but we're here to help. Our compassionate team will guide you through every step of the treatment process, from the initial consultation to the recovery period. Our goal is to help you achieve long-lasting results and restore your confidence.</p>
+            <p>Don't let varicose veins hold you back. Contact us today to schedule your consultation and take the first step towards healthy, beautiful legs.</p>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="crm_img"> <img src="images/crm.png" alt=""> </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="surgery">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="surgery_text">
+            <h2 data-aos="fade-up" data-aos-duration="3500"><span>Advantages</span> of Laser Surgery</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="d-flex justify-content-center icon_key">
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_1.png" alt="#"></figure>
+              <span>Painless and minimally invasive</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_2.png" alt="#"></figure>
+              <span>No Incisions</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_3.png" alt="#"></figure>
+              <span>Zero Downtime- resume daily activities from next day</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_4.png" alt="#"></figure>
+              <span>No post-operative care</span> </li>
+          </ul>
+          <ul class="d-flex justify-content-center icon_key">
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_5.png" alt="#"></figure>
+              <span>Performed is synchronization with the doppler scan with acute navigation</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_6.png" alt="#"></figure>
+              <span>Performed with local anesthesia</span> </li>
+            <!--<li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_7.png" alt="#"></figure>
+              <span>Performed with local anaesthesia</span> </li>-->
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_8.png" alt="#"></figure>
+              <span>Minimal chance of infection</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_9.png" alt="#"></figure>
+              <span>Negligible probability of reappearance of varicose veins</span> </li>
+          </ul>
+          <ul class="d-flex justify-content-center icon_key2">
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_10.png" alt="#"></figure>
+              <span>Success rate-whopping 97%</span> </li>
+            <li data-aos="zoom-in" data-aos-duration="3500">
+              <figure><img src="images/surgery_icon_11.png" alt="#"></figure>
+              <span>Negligible risk of DVT</span> </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="specialties">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="specialties_text">
+            <h2 data-aos="fade-up" data-aos-duration="3500">Our <span> Specialties </span></h2>
+          </div>
+        </div>
+      </div>
+      <div class="row" data-aos="fade-up" data-aos-duration="3500">
+        <div class="col-md-3 col-sm-6 col-xs-3">
+         <div class="spec-box">
+          <div class="spec_img_box"><img src="images/specialties_1.png" alt=""></div>
+          <div class="spec_text_box">
+            <h2>Varicose Veins</h2>
+            <p> Bluish-purple swollen veins with malfunctioning valves that prevent blood circulation </p>
+          </div>
+        </div>
+     </div>
+
+        <div class="col-md-3 col-sm-6 col-xs-3">
+         <div class="spec-box">
+          <div class="spec_img_box"><img src="images/specialties_2.png" alt=""></div>
+          <div class="spec_text_box">
+            <h2>Leg ulcers</h2>
+            <p>Blood pooling due to untreated varicose veins can lead to non-healing open sores</p>
+          </div>
+       </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-3">
+         <div class="spec-box">
+          <div class="spec_img_box"><img src="images/specialties_3.png" alt=""></div>
+          <div class="spec_text_box">
+            <h2>Lymphedema</h2>
+            <p>Broken network of lymph-nodes that cause swelling due to excessive accumulation of
+              the lymph fluid</p>
+          </div>
+        </div>
+     </div>
+        <div class="col-md-3 col-sm-6 col-xs-3">
+         <div class="spec-box">
+          <div class="spec_img_box"><img src="images/specialties_4.png" alt=""></div>
+          <div class="spec_text_box">
+            <h2>Fibroids</h2>
+            <p>Non-cancerous tumours in or around the uterus can cause heavy bleeding and painful periods</p>
+          </div>
+       </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="patient_journey">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="pj_hdr">
+            <h2 data-aos="fade-up"
+                           data-aos-duration="3500"><span>Patient Journey </span> at Avis Hospitals</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row" data-aos="fade-up" data-aos-duration="3500">
+        <div class="col-md-12">
+          <div class="pj_img_box"><img src="images/patient_journey.png" alt=""></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="why_us" style="background: url(./images/bg_3.jpg) 0 0 no-repeat;background-position: center;background-size: cover;">
+    <div class="container">
+      <div class="row" data-aos="fade-up" data-aos-duration="3500">
+        <div class="col-md-6">
+          <div class="why_us_inn">
+            <h2><span>Why</span> us?</h2>
+            <ul class="wul_list">
+              <li>
+                <div class="why_boxp"><img src="images/why_us_p1.png"></div>
+                <div class="why_box_text">
+                  <h2> In-House Facilities </h2>
+                  <!--<p>Bluish-purple swollen veins with malfunctioning valves that prevent blood circulation</p>-->
+                </div>
+              </li>
+              <li>
+                <div class="why_boxp"><img src="images/why_us_p2.png"></div>
+                <div class="why_box_text">
+                  <h2> Expert Healthcare </h2>
+                  <!--<p>Bluish-purple swollen veins with malfunctioning valves that prevent blood circulation</p>-->
+                </div>
+              </li>
+              <li>
+                <div class="why_boxp why_boxp2"><img src="images/why_us_p3.png"></div>
+                <div class="why_box_text">
+                  <h2> Mediclaim Assistance </h2>
+                  <!--<p> We have partnered with leading national insurance agencies for hassle-free Mediclaim support with cashless facility </p>-->
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="watch-video">
+            <h2><span>Watch</span> video </h2>
+          </div>
+          <div class="watch-video_inn">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/nrmovVRk3Q4?si=TKh5INuwDVS3GLCn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="patients_say">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="wo-patients-say">
+            <h2>What Our <span> Patients Say </span></h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="tst_ca_main" data-aos="fade-up"
+                        data-aos-duration="3500">
+            <div id="tst_carou" class="owl-carousel owl-theme">
+              <div class="item psay_text">
+                <div class="psay_text_box">
+                  <div class="qute"><img src="images/qute.png" alt=""></div>
+                  <p>Dr. Rajah is one of the best surgeon for varicose veins. Very good experience..he explained the diagnosis very well. Very good response. Helped me understand the problem in simple language..</p>
+                  <h3>Sejha Balal</h3>
+                  <span>Software Developer</span> 
+               </div>              
+              </div>
+              <div class="item psay_text">
+                <div class="psay_text_box">
+                  <div class="qute"><img src="images/qute.png" alt=""></div>
+                  <p>Avis Vascular Centre and Dr Rajah are one the best doctors and hospital I found for Varicose Veins in Hyderabad. very friendly and caring people I strongly recommend this hospital .Very good hospital for treatment of varicose veins and vascular problem. My Father was suffering with Varicose Veins from past 2 years. Dr. Rajah advised for laser treatment and same day we got discharged. Cost of the treatment was very reasonable and no additional cost been charged for Scan. Thank you Doctor.</p>
+                  <h3>Visha Kagar</h3>
+                  <span>IT Employee</span> 
+               </div>              
+              </div>          
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- footer start -->
+  <footer class="page_ftr">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="ftr_logo align-items-center justify-content-between"> <a href="#"><img src="images/ftr_logo.png" alt="#"></a> </div>
+        </div>
+       <!-- <div class="col-md-12">
+          <div class="gt_in_tch d-flex align-items-center">
+            <p>Dr. Rajah is one of the best surgeon for varicose veins. Very good experience..he explained the diagnosis very well. Very good response. Helped me understand the problem in simple language..</p>
+          </div>
+        </div>-->
+        <div class="col-md-12">
+          <div class="ftr_copy_right align-items-center justify-content-between">
+            <p>Copyright © 2020, All rights reserved, by Avis Hospitals</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- wrapper div -->
+</div>
+
+
+<div class="request_call_bk_mobile"><a href="#requestf">Book Your Appointment Today </a></div>
+
+
+
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/parallax.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+         AOS.init({
+                    easing: '',
+                    duration: 1000
+                  });
+      </script>
+<script type="text/javascript">
+         $(".gt_call").click(function() {
+         $('html, body').animate({
+           scrollTop: $(".frm_sec_bnr").offset().top
+         }, 500);
+         });
+      </script>
+<script type="text/javascript">
+         $('#global_slider').owlCarousel({
+         loop:true,
+         margin:15,
+         nav:true,
+         dots:false,
+         responsiveClass:true,
+         autoplay:true,
+         autoplayTimeout:50000,
+         autoplayHoverPause:false,
+         responsive:{
+             0:{
+                 items:3,
+             },
+             600:{
+                 items:2,
+             },
+             1000:{
+                 items:3,
+             }
+         }
+         });
+         
+         $('#tst_carou').owlCarousel({
+         loop:false,
+         margin:20,
+         nav:false,
+         items:2,
+         dots:false,
+         responsiveClass:true,
+         autoplay:true,
+         autoplayTimeout:3500,
+         autoplayHoverPause:false,
+         responsive:{
+             0:{
+                 items:1,
+             },
+             600:{
+                 items:2,
+             },
+             1000:{
+                 items:2,
+             }
+         }
+         });
+      </script>
+
+<script>
+  function txtValidate() {
+    var element = document.getElementById('nme');
+    element.value = element.value.replace(/[^a-zA-Z_ ]+/, '');
+  };
+  function numValidate() {
+    var element = document.getElementById('phn');
+    element.value = element.value.replace(/[^0-9_]+/, '');
+  };
+
+</script>
+<script>
+  function checkValidation()
+    {
+          //alert("a");
+          var name = jQuery("#nme").val();
+          var email = jQuery("#eml").val();
+          var phone = jQuery("#phn").val();
+          var loc = jQuery("#loc").val();
+          var msg = jQuery("#msg").val();
+          var utm_src= jQuery("#utm_src").val();          
+          var utm_med= jQuery("#utm_med").val();          
+          var utm_camp= jQuery("#utm_camp").val();          
+          var utm_term= jQuery("#utm_term").val();          
+          var utm_refer= jQuery("#utm_refer").val();          
+          var ip_add= jQuery("#ip_add").val();         
+         
+          var email_pattern = /^\b[A-Z0-9._%-]+@[A-Z0-9.-]+\.[A-Z]{2,4}\b$/i;
+          var phone_pattern = /^[\d\s+-]+$/;
+        
+        if(name == '' )
+          {          
+            alert("Enter your name");
+            jQuery("#nme").focus();
+            return false;
+          }
+        else if (email == '')
+          {
+            alert("Enter your email");      
+            jQuery("#eml").focus();
+            return false;
+          }
+        else if (!email_pattern.test(email))
+          {
+            alert("Enter your valid email");
+            jQuery("#eml").focus();
+            return false;
+          }
+        else if(phone == '')
+          {
+            //alert("aa");
+            alert("Enter your 10 digit phone number");
+            jQuery("#phn").focus();
+            return false;              
+          }
+        else if(!phone_pattern.test(phone))
+          {
+            alert("Invalid phone number");
+            jQuery("#phn").focus();
+            return false;          
+          }
+        else if(phone.length < 10 || phone.length > 11 )
+          {   
+            alert("Invalid phone number");
+            jQuery("#phn").focus();
+            return false;          
+          }
+        else if(loc == '')
+          {
+            //alert("aa");
+            alert("Choose any location");
+            jQuery("#loc").focus();
+            return false;              
+          }
+        else if(msg == '')
+          {
+            //alert("aa");
+            alert("Enter your query");
+            jQuery("#msg").focus();
+            return false;              
+          }
+          else
+          {
+            jQuery("#ban_btn").attr("disabled", true);
+            $.ajax({
+                url: "https://docs.google.com/forms/u/0/d/e/1FAIpQLScFC-6s40FJT8gZ8--4PVCi7K-zDh4StLm2BwV8H6b7Qwhj3Q/formResponse",
+                 data: {
+                  "entry.1892576483": name,
+                  "entry.255953042": email,
+                  "entry.215603844": phone,
+                  "entry.1520123152": loc,
+                  "entry.1940103810": msg,                  
+                  "entry.1103455657": utm_src,
+                  "entry.2024808668": utm_med,
+                  "entry.559876971": utm_camp,
+                  "entry.1517963397": utm_term,
+                  "entry.748009179": utm_refer,
+                  "entry.1284625304": ip_add,
+                },
+                type: "POST",
+                crossDomain: true,
+                dataType: "json",
+                // success: function(data)
+                // {
+                //   // alert(data); // show response from the php script.
+                //   window.location.href='thank-you.html';
+                // },
+                statusCode: {
+                  0: function() {
+                       console.log('Failure');
+                       window.location.href='thank-you.html';
+                  },
+                  200: function() {
+                       console.log('Success');
+                       window.location.href='thank-you.html';
+                  }
+                },
+                // success: success
+             });
+              
+          }
+    }
+  
+</script>
+
+
+
+</body>
+</html>

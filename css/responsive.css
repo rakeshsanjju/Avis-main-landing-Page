@@ -1,0 +1,813 @@
+@media only screen and (max-width:1024px) {
+    .ftr_box li {
+        min-height: 215px
+    }
+
+    .gt_in_tch p {
+        font-size: 22px
+    }
+
+    .ftr_logo a {
+        margin-bottom: 7px
+    }
+
+    footer.page_ftr {
+        padding: 40px 0
+    }
+
+    .list_red_box li {
+        font-size: 26px;
+        line-height: 20px;
+        padding: 0 10px
+    }
+
+    .list_red_box {
+        margin: 30px 0;
+        padding: 17px 20px
+    }
+
+    .surgery li {
+        margin: 0 37px
+    }
+
+    .icon_key2 li {
+        margin: 0 42px
+    }
+
+    .spec_text_box p {
+        font-size: 18px;
+        margin-top: 18px
+    }
+
+    input.sbmt_btn {
+        height: 44px
+    }
+}
+
+@media only screen and (max-width:980px) {
+    .bnr_cnct {
+        margin-right: 17%
+    }
+
+    .bnr_cnct h2 {
+        font-size: 40px;
+        margin-bottom: 25px
+    }
+
+    .bnr_cnct h3 {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 25px;
+        font-weight: 700
+    }
+
+    .list_red_box {
+        width: 100%;
+        margin: 40px 0;
+        padding: 17px 10px
+    }
+
+    .list_red_box li {
+        border-right: 3px solid #fff;
+        font-size: 19px;
+        line-height: 17px;
+        padding: 0 10px;
+        margin: 0 auto
+    }
+
+    .ablation_inn h2 {
+        font-size: 30px;
+        padding: 5px 0;
+        margin-bottom: 18px
+    }
+
+    .ablation_inn p {
+        font-size: 17px;
+        padding: 5px 0;
+        margin-bottom: 7px
+    }
+
+    .ablation {
+        width: 100%;
+        padding: 50px 0 50px
+    }
+
+    section.surgery {
+        padding: 50px 0
+    }
+
+    .surgery_text h2 {
+        font-size: 38px
+    }
+
+    .surgery_text {
+        margin-bottom: 50px
+    }
+
+    .surgery li span {
+        margin-top: 8px;
+        font-size: 16px
+    }
+
+    .specialties {
+        width: 100%;
+        padding: 50px 0
+    }
+
+    .specialties_text {
+        margin-bottom: 40px
+    }
+
+    .spec_text_box h2 {
+        font-size: 21px;
+        margin-top: 16px
+    }
+
+    .spec_text_box p {
+        font-size: 15px;
+        margin-top: 15px
+    }
+
+    .cbox_inn_1 {
+        padding: 20px 15px
+    }
+
+    .surgery li {
+        margin: 0 20px
+    }
+
+    .icon_key2 li {
+        margin: 0 22px
+    }
+
+    .patient_journey {
+        padding: 50px 0
+    }
+
+    .pj_hdr h2 {
+        font-size: 36px
+    }
+
+    .pj_hdr {
+        margin-bottom: 30px
+    }
+
+    .why_us {
+        padding: 50px 0
+    }
+
+    .why_us_inn h2 {
+        font-size: 38px;
+        margin-bottom: 40px
+    }
+
+    .why_box_text p {
+        font-size: 20px;
+        margin-bottom: 0
+    }
+
+    .wul_list li {
+        margin-bottom: 12px
+    }
+
+    .why_us_inn h2 {
+        font-size: 38px;
+        margin-bottom: 35px
+    }
+
+    .why_box_text h2 {
+        font-size: 24px;
+        margin-bottom: 5px
+    }
+
+    .why_boxp img {
+        width: 250px
+    }
+
+    .why_boxp2 {
+        margin-right: 28px
+    }
+
+    .why_boxp2 img {
+        width: 350px
+    }
+
+    .watch-video h2 {
+        font-size: 38px;
+        margin-bottom: 35px
+    }
+
+    .patients_say {
+        padding: 50px 0
+    }
+
+    .wo-patients-say {
+        margin-bottom: 33px
+    }
+
+    .wo-patients-say h2 {
+        font-size: 36px
+    }
+
+    .psay_text_box p {
+        font-size: 17px;
+        margin-top: 53px;
+        text-align: left
+    }
+
+    .psay_text_box {
+        padding: 18px;
+        margin: 0 14px
+    }
+
+    .list_red_box {
+        margin: 40px 0 0
+    }
+
+    .gt_in_tch p {
+        font-size: 18px
+    }
+
+    .ftr_logo a {
+        margin-bottom: 7px
+    }
+
+    footer.page_ftr {
+        padding: 40px 0
+    }
+
+    .fg_l1 {
+        width: 71%
+    }
+
+    .fg_l2 {
+        width: 26%
+    }
+
+    input.sbmt_btn {
+        height: 43px
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .leser_treatment li {
+        margin: 0 0;
+        padding: 5px 0;
+        display: block;
+        border-right: none;
+        border-bottom: 1px solid #000
+    }
+
+    .list_red_box {
+        display: block;
+        padding: 10px 0;
+        border-radius: 5px
+    }
+
+    .list_red_box li {
+        border-right: none;
+        font-size: 19px;
+        padding: 15px 0;
+        border-bottom: 1px solid #fff
+    }
+
+    @media only screen and (max-width:767px) {
+        .log_and_nmbr {
+            flex-wrap: wrap
+        }
+
+        header.top_hdr {
+            position: unset;
+            background: #e9e9e9;
+            padding: 10px 0;
+            overflow: hidden
+        }
+
+        .top_logo_main {
+            display: unset;
+            align-items: center;
+            justify-content: space-between;
+            text-align: center
+        }
+
+        .top_logo_main a img {
+            width: 143px
+        }
+
+        a.logo_page {
+            max-width: none;
+            width: 100%;
+            display: flex
+        }
+
+        .request_call_bk {
+            display: block;
+            width: 238px;
+            float: none;
+            padding: 8px 28px;
+            margin: 1px auto auto
+        }
+
+        .request_call_bk a {
+            font-size: 18px
+        }
+
+        .bnr_cnct {
+            margin-right: 21%
+        }
+
+        .two_fld3 .form-group {
+            width: 49%
+        }
+
+        .bnr_frm_inn {
+            box-shadow: none !important
+        }
+
+        .bnr_cnct {
+            margin-right: 0
+        }
+
+        .bnr_inr {
+            padding: 50px 0;
+            overflow: hidden
+        }
+
+        .bnr_cnct h2 {
+            font-size: 35px
+        }
+
+        .bnr_cnct p {
+            font-size: 20px;
+            margin-bottom: 10px
+        }
+
+        .bnr_cnct ul li {
+            font-size: 16px
+        }
+
+        .bnr_frm_top {
+            max-width: 100%;
+            margin-top: 35px
+        }
+
+        .bnr_frm_inn {
+            padding: 35px 0 0;
+            position: unset
+        }
+
+        .bnr_cnct h2 {
+            font-size: 40px;
+            margin-bottom: 20px
+        }
+
+        .bnr_cnct h3 {
+            margin-bottom: 15px
+        }
+
+        .list_red_box li {
+            border-right: 2px solid #fff;
+            font-size: 14px;
+            line-height: 5px;
+            padding: 6px 7px;
+            font-weight: 600
+        }
+
+        .list_red_box {
+            margin: 40px 0 0
+        }
+
+        .ablation {
+            width: 100%;
+            padding: 40px 0 40px
+        }
+
+        .ablation_inn h2 {
+            font-size: 30px;
+            margin-bottom: 20px
+        }
+
+        section.surgery {
+            padding: 40px 0
+        }
+
+        .surgery_text {
+            text-align: center;
+            margin-bottom: 30px
+        }
+
+        .surgery_text h2 {
+            font-size: 35px
+        }
+
+        .surgery li {
+            margin: 0 20px 30px
+        }
+
+        .surgery li span {
+            margin-top: 20px;
+            font-size: 16px
+        }
+
+        .specialties {
+            padding: 40px 0
+        }
+
+        .specialties_text {
+            text-align: center;
+            margin-bottom: 30px
+        }
+
+        .spec-box {
+            margin: 0 0 30px 0
+        }
+
+        .spec_text_box p {
+            font-size: 20px;
+            margin-top: 10px
+        }
+
+        .patient_journey {
+            padding: 40px 0
+        }
+
+        .pj_hdr {
+            margin-bottom: 30px
+        }
+
+        .pj_hdr h2 {
+            font-size: 30px
+        }
+
+        .why_us {
+            padding: 40px 0
+        }
+
+        .why_us_inn h2 {
+            margin-bottom: 40px
+        }
+
+        .wul_list li {
+            margin-bottom: 10px
+        }
+
+        .why_box_text h2 {
+            font-size: 24px !important;
+            margin-bottom: 5px !important
+        }
+
+        .wul_list li {
+            margin-bottom: 40px
+        }
+
+        section.business_cloud,
+        section.key_benifits,
+        section.key_instants,
+        section.sloution_sec {
+            padding: 50px 0
+        }
+
+        .ftr_logo {
+            display: block !important;
+            text-align: center
+        }
+
+        footer.page_ftr {
+            padding: 25px 0 77px
+        }
+
+        .thnk_b_inr h3 {
+            font-size: 26px
+        }
+
+        .thnk_b_inr p {
+            font-size: 15px
+        }
+
+        .gt_in_tch p {
+            font-size: 19px;
+            padding-left: 21px
+        }
+
+        .ftr_logo {
+            margin-top: 8px
+        }
+
+        .ftr_logo a {
+            margin-bottom: 0;
+            display: block
+        }
+
+        .bnr_form_section {
+            padding: 0 0 20px 0
+        }
+
+        .cbox_inn_1 {
+            padding: 21px 5px
+        }
+
+        .cbox_inn_1 h2 {
+            font-size: 36px;
+            padding: 5px 3%
+        }
+
+        .icon_key {
+            margin-bottom: 27px
+        }
+
+        .spec_text_box p {
+            font-size: 16px;
+            margin-top: 10px
+        }
+
+        .why_box_text p {
+            font-size: 16px;
+            margin-bottom: 0
+        }
+
+        .gt_in_tch p {
+            font-size: 16px;
+            padding-left: 0
+        }
+
+        .specialties_text h2 {
+            font-size: 36px
+        }
+
+        .wo-patients-say h2 {
+            font-size: 36px
+        }
+
+        .why_boxp {
+            margin-right: 25px;
+            width: auto
+        }
+
+        .psay_text_box {
+            padding: 15px;
+            margin: 0 0
+        }
+
+        .psay_text {
+            padding: 15px 5px 15px
+        }
+
+        .psay_text_box p {
+            margin-top: 64px
+        }
+
+        .bnr_sec {
+            display: none
+        }
+
+        .bnr_sec_mobile {
+            display: block;
+            background-position: initial !important
+        }
+
+        .request_call_bk {
+            display: none
+        }
+
+        .request_call_bk_mobile {
+            display: block;
+            background: #e3351d;
+            width: 100%;
+            position: fixed;
+            text-align: center;
+            color: #fff;
+            padding: 12px 15px;
+            margin: 0;
+            z-index: 999999;
+            bottom: 0
+        }
+
+        .request_call_bk_mobile a {
+            font-size: 22px;
+            color: #fff;
+            font-weight: 600
+        }
+
+        a.logo_page {
+            margin-bottom: 0
+        }
+
+        .surgery li span {
+            margin-top: 7px
+        }
+    }
+
+    @media only screen and (max-width:768px) {
+        .cbox_inn_1 p {
+            font-size: 21px;
+            padding: 5px 5%
+        }
+
+        .request_call_bk {
+            width: 239px;
+            padding: 5px 14px;
+            margin: 1px auto auto
+        }
+
+        .request_call_bk a {
+            font-size: 20px
+        }
+
+        .fg_l1 {
+            width: 71%
+        }
+
+        .fg_l2 {
+            width: 26%
+        }
+
+        input.sbmt_btn {
+            height: 43px
+        }
+    }
+
+    @media only screen and (max-width:480px) {
+        .d-flex {
+            display: -ms-flexbox !important;
+            display: unset !important
+        }
+
+        .two_fld2 .form-group {
+            width: 100%
+        }
+
+        .two_fld .form-group {
+            width: 100%
+        }
+
+        .two_fld3 .form-group {
+            width: 100%
+        }
+        .watch-video_inn {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           /* Optional: Make it vertically centered */
+          }
+          
+          .video-container {
+            width: 90%; /* Adjust as needed for mobile-like width */
+            max-width: 360px; /* Limit the width for desktop */
+            aspect-ratio: 16 / 9; /* Maintain a 16:9 aspect ratio */
+            position: relative;
+          }
+          
+          .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+          
+
+        .list_red_box {
+            width: 100%;
+            margin: 40px 0;
+            display: none;
+            padding: 10px 20px;
+            background: 0 0;
+            border-radius: 40px;
+            text-align: center
+        }
+
+        .list_red_box li {
+            border-right: none;
+            font-size: 17px;
+            color: #fff;
+            line-height: 30px;
+            padding: 7px 10px;
+            text-align: center;
+            margin: 1px auto;
+            font-weight: 700;
+            background: #e3351d;
+            border-bottom: 0
+        }
+
+        section.form_down {
+            padding: 0 0 20px
+        }
+
+        .ablation {
+            width: 100%;
+            padding: 40px 0 40px
+        }
+
+        .ablation_inn h2 {
+            font-size: 24px;
+            margin-bottom: 20px
+        }
+
+        .why_us_inn h2 {
+            font-size: 34px;
+            margin-bottom: 35px
+        }
+
+        .watch-video h2 {
+            font-size: 34px;
+            margin-bottom: 35px
+        }
+
+        .wo-patients-say h2 {
+            font-size: 36px
+        }
+
+        .psay_text_box p {
+            font-size: 16px;
+            line-height: 1.4;
+            color: #282828;
+            letter-spacing: 0;
+            margin-top: 56px;
+            text-align: left
+        }
+
+        .psay_text_box {
+            width: 100%;
+            padding: 15px;
+            margin: 0 5px
+        }
+
+        a.logo_page {
+            display: block;
+            margin-bottom: 17px
+        }
+
+        a.logo_page {
+            max-width: none;
+            width: 100%;
+            display: block;
+            margin-bottom: 0
+        }
+
+        .cbox_inn_1 p {
+            font-size: 15px;
+            padding: 5px 15%
+        }
+
+        .why_us_inn h2 {
+            font-size: 34px;
+            margin-bottom: 25px
+        }
+
+        .why_box_text {
+            font-size: 24px !important
+        }
+
+        .gt_in_tch p {
+            font-size: 16px;
+            padding-left: 0
+        }
+
+        .ablation_inn p {
+            font-size: 16px
+        }
+
+        .specialties_text h2 {
+            font-size: 30px
+        }
+
+        .wo-patients-say h2 {
+            font-size: 30px
+        }
+    }
+
+    @media only screen and (max-width:480px) {
+        .leser_treatment li {
+            font-size: 17px;
+            margin: 0 0;
+            padding: 10px 0;
+            display: block;
+            border-right: none;
+            line-height: 22px;
+            border-bottom: 1px solid #000
+        }
+    }
+
+    @media only screen and (max-width:414px) {
+        .ftr_copy_right p {
+            font-size: 13px;
+            margin-top: 25px
+        }
+
+        .cbox_inn_1 h2 {
+            font-size: 24px;
+            padding: 5px 3%
+        }
+
+        .cbox_inn_1 p {
+            font-size: 17px;
+            padding: 2px 4%
+        }
+    }
+
+    @media only screen and (max-width:360px) {
+        section.business_cloud ul li img {
+            width: 100px
+        }
+    }
+}
